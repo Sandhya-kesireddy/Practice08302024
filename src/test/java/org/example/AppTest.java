@@ -12,6 +12,13 @@ public class AppTest {
     /**
      * Rigorous Test :-)
      */
+
+//comment 123
+    //comment 123
+    //comment 123
+    //comment 123
+
+
     @Test
     public void shouldAnswerWithTrue() {
         assertTrue(true);
