@@ -19,5 +19,6 @@ public class AppTest {
 
     @Test
     public void newMethod(){System.out.println("MY Code");
+        System.out.println("Sandhya New line -- MY Code");
     }
 }
